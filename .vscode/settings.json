@@ -1,0 +1,12 @@
+{
+  "editor.renderWhitespace": "boundary",
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.autoIndent": "advanced",
+    "editor.formatOnSave": true,
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+  },
+}
